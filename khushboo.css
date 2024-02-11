@@ -1,0 +1,95 @@
+p {
+  color: rgb(0, 0, 0);
+  background-color: rgba(192, 123, 111, 0.973);
+  font-style: initial;
+  font-size: larger;
+  font-weight: initial;
+  font: 6em sans-serif;
+  border: 3px;
+  border-style: double;
+  border-color: rgb(3, 3, 3);
+  border-radius: 100px;
+}
+th {
+  width: 28%;
+  height: 50%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  background-color: rgba(131, 63, 55, 0.973);
+}
+
+table tr td {
+  width: 28%;
+  height: 50%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  text-align-last: center;
+  background-color: rgba(192, 123, 111, 0.973);
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  background-color: rgba(192, 123, 111, 0.973);
+  width: 300px;
+  border-color: black;
+  border-width: 2px;
+  border-style: double;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  background-color: rgba(192, 123, 111, 0.973);
+  width: 530px;
+  border-color: black;
+  border-width: 2px;
+  border-style: double;
+}
+
+form thead tr td {
+  width: 40px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  text-align-last: center;
+  background-color: rgba(192, 123, 111, 0.973);
+  padding: auto;
+}
+
+body {
+  padding: 0%;
+  margin: auto;
+  background-color: rgb(6, 153, 104);
+  word-spacing: 2px;
+}
+.header {
+  color: antiquewhite;
+  background-color: crimson;
+  display: inline;
+  float: right;
+  margin: 5%;
+  padding: 1%;
+}
+
+.tips {
+  border-style: solid;
+  background-color: rgb(8, 20, 17);
+  margin-top: 5%;
+  width: 400px;
+  border-bottom-color: black;
+  border-top-color: rgb(4, 4, 10);
+  border-right-color: rgb(8, 2, 2);
+  border-left-color: rgb(15, 7, 7);
+  float: right;
+}
+div {
+  text-align: center;
+  text-indent: 2em;
+  text-transform: uppercase;
+}
+h4 {
+  text-decoration: underline;
+}
